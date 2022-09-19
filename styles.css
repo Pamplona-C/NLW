@@ -107,9 +107,14 @@ section ul li{
 
 }
 
+section i{
+    width: 30px;
+}
+
 section ul li:hover{
     transform: scale(1.1);
 }
+
 
 .Games-list img {
     border-radius: 8px;  /*arredondamento de borda de imagem*/
@@ -121,6 +126,11 @@ section ul li:hover{
     width: 70px;  /*largura imagem*/
     border: 1px solid #443E54;
 }
+
+.fa-brands fa-whatsapp{
+    
+}
+
 
 /*animation*/
 
