@@ -1,4 +1,4 @@
-<h1 align="center"> NLW - COPA </h1>
+<h1 align="center"> NLW - Esports </h1>
 
 <br>
 
